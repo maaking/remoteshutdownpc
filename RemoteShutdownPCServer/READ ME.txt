@@ -1,0 +1,16 @@
+RemoteShutdownPC v 1.0.0
+This program only accepts data once and then it shutsdown. 
+Future version will have possibility to change port and to cancel shutdown. 
+
+
+First time running app : 
+1) open CMD and navigate to your file location
+2) java -jar RemoteShutdownPCServer.jar
+3) Read and leave it 
+
+OR just run 
+Run RemoteShutdownPCServer
+
+Else : 
+1) just double click RemoteShutdownPCServer.jar and leave it 
+
